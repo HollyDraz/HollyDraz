@@ -5,13 +5,13 @@
 
 - 🔭 I’m currently working on [my solo passion project that will reflect many of the skills I've learned over the last 28 weeks](https://github.com/HollyDraz/record-scratch-solo-project)
 
-- 🌱 I’m currently learning **Material UI, UX design**
+- 🌱 I’m currently focusing on **Material UI, and UX desgin! I want to start looking into C# next**
 
 - 📝 Lets Connect! [https://www.linkedin.com/in/hollydr/](https://www.linkedin.com/in/hollydr/)
 
 - 📫 How to reach me **hollydrazwork@gmail.com**
 
-- ⚡ Fun fact **I have alomst 10,000 songs saved on my spotify!**
+- ⚡ Fun fact **I have almost 10,000 songs saved on my spotify!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
