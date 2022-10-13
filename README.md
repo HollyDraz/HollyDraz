@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### <h1>Hello! My Name is Holly!  </h1>
+
+<div>
+<p> I'm curently wrappping up an intesive 28 week intesive fullstack vocational school! 
+</div>
