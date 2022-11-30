@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hollydraz&label=Profile%20views&color=0e75b6&style=flat" alt="hollydraz" /> </p>
 
-- 🔭 I’m currently working on [my solo passion project that will reflect many of the skills I've learned over the last 28 weeks](https://github.com/HollyDraz/record-scratch)
+- 🔭 I’m currently working on [A group project to show my skills in javascript that will be used by my school](https://github.com/Jbaxend1/prime-vetted)
 
 - 🌱 I’m currently focusing on **Material UI, and UX desgin! I want to start looking into C# next**
 
