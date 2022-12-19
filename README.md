@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hollydraz&label=Profile%20views&color=0e75b6&style=flat" alt="hollydraz" /> </p>
 
-- 🔭 I’m currently working on [A group project to show my skills in javascript that will be used by my school](https://github.com/Jbaxend1/prime-vetted)
+- 🔭 I’m currently working on completing a course on accessibility through Deque university
 
-- 🌱 I’m currently focusing on **Material UI, and UX desgin! I want to start looking into C# next**
+- 🌱 I’m currently focusing on **React native, I want to start looking into C# next**
 
 - 📝 Lets Connect! [https://www.linkedin.com/in/hollydr/](https://www.linkedin.com/in/hollydr/)
 
