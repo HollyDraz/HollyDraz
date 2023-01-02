@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hollydraz&label=Profile%20views&color=0e75b6&style=flat" alt="hollydraz" /> </p>
 
-- 🔭 I’m currently working on completing a course on accessibility through Deque university
+- 🔭 I’m currently working on completing a 30 day javascript code challenge! 
 
 - 🌱 I’m currently focusing on **React native, I want to start looking into C# next**
 
