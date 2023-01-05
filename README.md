@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on completing [a 30-day code challenge](https://github.com/HollyDraz/JavaScript30)
 
-- 🌱 I’m currently focusing on **React native, I want to start looking into C# next**
+- 🌱 I’m currently focusing on **React native, I want to start looking into bubble.io**
 
 - 📝 Lets Connect! [https://www.linkedin.com/in/hollydr/](https://www.linkedin.com/in/hollydr/)
 
