@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hollydraz&label=Profile%20views&color=0e75b6&style=flat" alt="hollydraz" /> </p>
 
-- 🔭 I’m currently working on completing [a 30-day code challenge](https://github.com/HollyDraz/JavaScript30)
+- 🔭 I’m currently working on updaating my personal passion project titled: "Record Scratch"
 
 - 🌱 I’m currently focusing on **React native, I want to start looking into bubble.io**
 
