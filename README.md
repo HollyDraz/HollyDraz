@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hollydraz&label=Profile%20views&color=0e75b6&style=flat" alt="hollydraz" /> </p>
 
-- 🔭 I’m currently working on updaating my personal passion project titled: "Record Scratch"
+- 🔭 I’m currently working on learning more about PHP and applying that to websites
 
-- 🌱 I’m currently focusing on **React native, I want to start looking into bubble.io**
+- 🌱 I’m currently focusing on building a wrdpress website using PHP
 
 - 📝 Lets Connect! [https://www.linkedin.com/in/hollydr/](https://www.linkedin.com/in/hollydr/)
 
