@@ -5,7 +5,7 @@
 
 
 
-- 🔭 I’m currently working on a WordPress Blog as well as personal protfolio
+- 🔭 I’m currently working on a summer cohort app project :) 
 
 - 👨‍💻 All of my projects are available at [https://github.com/HollyDraz](https://github.com/HollyDraz)
 
