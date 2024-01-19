@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/HollyDraz](https://github.com/HollyDraz)
 
-- 💬 Ask me about **Html, CSS, Material UI**
+- 💬 Ask me about **React, Material UI, AI**
 
 - 📫 How to reach me **hollydrazwork@gmail.com**
 
