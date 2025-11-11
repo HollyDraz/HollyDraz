@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I’m Holly! 👋<br><br>I’m a passionate TA and Developer focused on building awesome frontend experiences. 💻<br><br>What I’m Working On:<br>Frontend Development 🚀<br>Exploring Data Analytics 📊 – excited to see where this takes me!<br>Currently building and contributing to open-source projects.<br><br>Outside of Work:<br>I’m a BJJ and Muay Thai enthusiast 🥋🥊 <br>I also love discovering and supporting local music bands 🎶
+Hi, I’m Holly! 👋<br><br>I’m a passionate TA and Developer focused on building awesome frontend experiences. 💻<br><br>What I’m Working On:<br>Frontend MAsters Course <br>Exploring Data Analytics by completinga  coursera certficiate <br>Currently working on a personal game project and pixel art skillz.<br><br>Outside of Work:<br>I’m a BJJ and Muay Thai enthusiast 🥋🥊 <br>I also love discovering and supporting local music bands 🎶
 
 
 ## 🌐 Socials:
