@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Holly Draz</h1>
-<h3 align="center">A creative in the tech field!</h3>
+![Header](./your-header-image-name.png)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hollydraz&label=Profile%20views&color=0e75b6&style=flat" alt="hollydraz" /> </p>
 
