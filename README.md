@@ -1,4 +1,4 @@
-![Header](./your-header-image-name.png)
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hollydraz&label=Profile%20views&color=0e75b6&style=flat" alt="hollydraz" /> </p>
 
@@ -16,7 +16,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/hollydr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hollydraz" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/hollydr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/sr<img width="3400" height="920" alt="hollyheader" src="https://github.com/user-attachments/assets/01391191-fb1a-41ae-aee0-d3064ae0d26b" />
+<img width="3400" height="920" alt="github-header-banner" src="https://github.com/user-attachments/assets/6978d17c-9ccd-4499-8bc8-af05a5ffbd71" />
+c/images/icons/Social/linked-in-alt.svg" alt="hollydraz" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/hollydraz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="hollydraz" height="30" width="40" /></a>
 </p>
 
